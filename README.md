@@ -8,8 +8,7 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiang511&theme=vue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiang511&theme=vue)
-&ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiang511&theme=vue&utcOffset=8)</br></br>
-![](https://komarev.com/ghpvc/?username=Xiang511&style=for-the-badge) 
+&ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiang511&theme=vue&utcOffset=8)
 <!--
 
 ### Hi I'm Xiang511</br> 
