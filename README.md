@@ -9,6 +9,9 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiang511&theme=vue)
 &ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiang511&theme=vue&utcOffset=8)
+<picture>
+  <img style="width:86%; margin:-0.7em" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake.svg">
+</picture>
 <!--
 ##
 ![](https://raw.githubusercontent.com/Xiang511/GitHub-Stats-Visualization/master/generated/overview.svg#gh-light-mode-only)
