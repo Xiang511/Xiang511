@@ -5,10 +5,10 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 > 💬 I'm working towards becoming a front-end engineer.</br>
 > 🎈 I’m looking to collaborate on new business ideas.</br>
 ##
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiang511&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiang511&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiang511&theme=vue)
-&ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiang511&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiang511&theme=default)
+&ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiang511&theme=default&utcOffset=8)
 <!--
 ##
 ![](https://raw.githubusercontent.com/Xiang511/GitHub-Stats-Visualization/master/generated/overview.svg#gh-light-mode-only)
