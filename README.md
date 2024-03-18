@@ -9,15 +9,6 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiang511&theme=vue)
 &ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiang511&theme=vue&utcOffset=8)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xiang511&theme=vue)
-&ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiang511&theme=vue)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake.svg">
-  <img style="center;width:86%;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/Xiang511/output/github-contribution-grid-snake.svg">
-</picture>
 <!--
 ##
 ![](https://raw.githubusercontent.com/Xiang511/GitHub-Stats-Visualization/master/generated/overview.svg#gh-light-mode-only)
@@ -27,6 +18,14 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 ![](https://api.githubtrends.io/user/svg/Xiang511/repos?time_range=one_year&group=other&theme=classic)
 ##
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xiang511&theme=vue)
+&ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiang511&theme=vue)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake.svg">
+  <img style="center;width:86%;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/Xiang511/output/github-contribution-grid-snake.svg">
+</picture>
 
 -->
 <!--
