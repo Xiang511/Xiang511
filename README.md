@@ -9,9 +9,13 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiang511&theme=vue)
 &ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiang511&theme=vue&utcOffset=8)
+<!--
 ##
 ![](https://raw.githubusercontent.com/Xiang511/GitHub-Stats-Visualization/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Xiang511/GitHub-Stats-Visualization/master/generated/languages.svg#gh-light-mode-only)
+##
+![](https://api.githubtrends.io/user/svg/Xiang511/langs?time_range=one_year&theme=classic)
+![](https://api.githubtrends.io/user/svg/Xiang511/repos?time_range=one_year&group=other&theme=classic)
 ##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake-dark.svg">
@@ -19,6 +23,7 @@ Here, I will share some of my own projects. Feel free to leave your comments and
   <img style="center;width:86%;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/Xiang511/output/github-contribution-grid-snake.svg">
 </picture>
 
+-->
 <!--
 ##
 ![](https://raw.githubusercontent.com/Xiang511/GitHub-Stats-Visualization/master/generated/overview.svg#gh-light-mode-only)
