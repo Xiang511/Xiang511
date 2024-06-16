@@ -39,7 +39,7 @@
 ## 🐍 Github Snk
 
 <picture>
-  <img style="center;width:86%;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
 
