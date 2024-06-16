@@ -37,12 +37,11 @@
 </p>
 
 ## 📈 Github State
-<img style="width:100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiang511&theme=vue">
-<img align="right" style="display:inline;width:48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiang511&theme=vue">
-<img align="left" style="display:inline;width:48% " src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiang511&theme=vue&utcOffset=8">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiang511&theme=vue)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiang511&theme=vue)
+&ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiang511&theme=vue&utcOffset=8)
 
 
 
