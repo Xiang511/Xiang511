@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Hydromechanics-TCRS](https://github.com/Xiang511/hydromechanics)
 
-### 🧰 Languages and Tools:
+### Languages and Tools:
 
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
