@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developaser from Taiwan</h3>
 
 
-<img src="https://komarev.com/ghpvc/?username=xiang511&label=Profile%20views&color=0e75b6&style=flat" alt="xiang511" /> </p>
+<img src="https://komarev.com/ghpvc/?username=xiang511&label=Profile%20views&color=0e75b6&style=flat-square" alt="xiang511" /> </p>
 
 
 - 💬 Ask me about **Vue.js**
