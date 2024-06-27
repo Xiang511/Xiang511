@@ -1,8 +1,3 @@
-
-<h1 align="center">Hi 👋, I'm Xiang511</h1>
-<h3 align="center">A frontend developer from Taiwan</h3>
-
-
 <img src="https://komarev.com/ghpvc/?username=xiang511&label=Profile%20views&color=0e75b6&style=flat-square" alt="xiang511" /> </p>
 
 
