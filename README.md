@@ -1,5 +1,3 @@
-
-
 - 💬 Ask me about **Vue.js**
 
 - 🌱 I’m currently learning **Node.js**
