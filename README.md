@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=xiang511&label=Profile%20views&color=0e75b6&style=flat-square" alt="xiang511" />
+
 
 - 💬 Ask me about **Vue.js**
 
