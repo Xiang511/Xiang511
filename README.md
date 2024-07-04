@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xiang511</h1>
-<h3 align="center">A frontend developer from Taiwan</h3>
-<img src="https://komarev.com/ghpvc/?username=xiang511&label=Profile%20views&color=0e75b6&style=flat-square" alt="xiang511" /> </p>
-
+<img src="https://komarev.com/ghpvc/?username=xiang511&label=Profile%20views&color=0e75b6&style=flat-square" alt="xiang511" />
 
 - 💬 Ask me about **Vue.js**
 
@@ -10,40 +7,39 @@
 - 👨‍💻 All of my projects are available at [xiang511.com](xiang511.com)
 
 - 🔭 I’m currently working on [Hydromechanics-TCRS](https://github.com/Xiang511/hydromechanics)
-
-### 💻 Languages and Tools
-
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-
-</p>
-
-
-### 📈 Github State
-
+##
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiang511&theme=vue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiang511&theme=vue)
 &ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiang511&theme=vue&utcOffset=8)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake.svg">
+  <img style="center;width:86%;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/Xiang511/output/github-contribution-grid-snake.svg">
+</picture>
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xiang511&theme=vue)
+&ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiang511&theme=vue)
 
 
 
+##
+![](https://raw.githubusercontent.com/Xiang511/GitHub-Stats-Visualization/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Xiang511/GitHub-Stats-Visualization/master/generated/languages.svg#gh-light-mode-only)
+##
+![](https://api.githubtrends.io/user/svg/Xiang511/langs?time_range=one_year&theme=classic)
+![](https://api.githubtrends.io/user/svg/Xiang511/repos?time_range=one_year&group=other&theme=classic)
+##
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xiang511&theme=vue)
+&ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiang511&theme=vue)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake.svg">
+  <img style="center;width:86%;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/Xiang511/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
