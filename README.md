@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Xiang511&style=for-the-badge) 
 - 💬 Ask me about **Vue.js**
 
 - 🌱 I’m currently learning **Node.js**
@@ -112,7 +113,7 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 > 🎈 I’m looking to collaborate on new business ideas.</br>
 1
 ##
-![](https://komarev.com/ghpvc/?username=Xiang511&style=for-the-badge) 
+
 ## ![](https://komarev.com/ghpvc/?username=Xiang511&style=for-the-badge) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge) ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiang511/Xiang511/output/github-contribution-grid-snake-dark.svg">
