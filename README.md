@@ -1,11 +1,13 @@
-![](https://komarev.com/ghpvc/?username=Xiang511&style=for-the-badge) 
+![](https://komarev.com/ghpvc/?username=Xiang511&style=for-the-badge&color=41B883) 
 - 💬 Ask me about **Vue.js**
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [xiang511.com](xiang511.com)
+- 🔭 I’m currently working on **RWR WiKi Redesign**
+  
+- 👨‍💻 All of my projects are available at **xiang511.com**
 
-- 🔭 I’m currently working on [Hydromechanics-TCRS](https://github.com/Xiang511/hydromechanics)
+
 ##
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiang511&theme=vue)
 
