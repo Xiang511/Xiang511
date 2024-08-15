@@ -12,7 +12,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xiang511&theme=vue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xiang511&theme=vue)
-&ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xiang511&theme=vue&utcOffset=8)
+&ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xiang511&theme=vue&exclude=MATLAB)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake-dark.svg">
