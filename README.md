@@ -1,4 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Xiang511&style=for-the-badge&color=41B883) 
+
+[![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=for-the-badge&color=41B883)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c)
+
 - 💬 Ask me about **Vue.js**
 
 - 🌱 I’m currently learning **Node.js**
