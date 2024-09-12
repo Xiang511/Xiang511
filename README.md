@@ -5,8 +5,6 @@
 - 💬 Ask me about **Vue.js**
 
 - 🌱 I’m currently learning **Node.js**
-
-- 🔭 I’m currently working on **RWR WiKi Redesign**
   
 - 👨‍💻 All of my projects are available at **xiang511.com**
 
