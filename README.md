@@ -10,7 +10,6 @@
 
 ##
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Xiang511)](https://git.io/streak-stats)
 
 ![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/0-profile-details.svg)
 
@@ -72,6 +71,7 @@
 
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xiang511)](https://git.io/streak-stats)
 ### Hi I'm Xiang511</br> 
 I'm a university student looking for a future career. Welcome to my GitHub page.<br>
 Here, I will share some of my own projects. Feel free to leave your comments and discuss.</br>
