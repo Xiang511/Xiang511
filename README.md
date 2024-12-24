@@ -2,14 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=for-the-badge&color=41B883)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c)
 
-- 💬 Ask me about **Vue.js**
-
-- 🌱 I’m currently learning **Node.js**
-  
-- 👨‍💻 All of my projects are available at **xiang511.com**
-
-##
-
 
 ![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/0-profile-details.svg)
 
@@ -28,6 +20,12 @@
 
 
 <!--
+- 💬 Ask me about **Vue.js**
+
+- 🌱 I’m currently learning **Node.js**
+  
+- 👨‍💻 All of my projects are available at **xiang511.com**
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xiang511&theme=vue)
 &ensp;&ensp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xiang511&theme=vue)
 
