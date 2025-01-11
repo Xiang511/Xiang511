@@ -1,8 +1,11 @@
-![](https://komarev.com/ghpvc/?username=Xiang511&style=for-the-badge&color=41B883) 
+## Hi I'm Xiang511</br> 
+I'm a university student looking for a future career. Welcome to my GitHub page.<br>
+Here, I will share some of my own projects. Feel free to leave your comments and discuss.</br>
 
-[![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=for-the-badge&color=41B883)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,vue,nuxtjs,mongodb,git,vscode,&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,vue,nuxtjs,mongodb,git,npm,postman,vscode,&theme=light)](https://skillicons.dev)
+[![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=flat&color=41B883)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c) ![](https://komarev.com/ghpvc/?username=Xiang511&style=flat&color=41B883) ![GitHub followers](https://img.shields.io/github/followers/Xiang511?style=flat) ![GitHub User's stars](https://img.shields.io/github/stars/Xiang511?affiliations=OWNER&style=flat)
+
 
 
 ![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/0-profile-details.svg)
