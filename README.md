@@ -4,7 +4,7 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,vue,nuxtjs,mongodb,git,vscode,&theme=light)](https://skillicons.dev)
 
-[![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=flat&color=5E6AE9)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c) ![](https://komarev.com/ghpvc/?username=Xiang511&style=flat&color=2FA6E9) ![GitHub followers](https://img.shields.io/github/followers/Xiang511?style=flat&color=A4A61D) ![GitHub User's stars](https://img.shields.io/github/stars/Xiang511?affiliations=OWNER&style=flat&color=97CA00)
+[![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=flat)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c) ![](https://komarev.com/ghpvc/?username=Xiang511&style=flat) ![GitHub followers](https://img.shields.io/github/followers/Xiang511?style=flat) ![GitHub User's stars](https://img.shields.io/github/stars/Xiang511?affiliations=OWNER&style=flat)
 
 <details>
   <summary>Github Stats 📈</summary>
