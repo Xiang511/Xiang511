@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=for-the-badge&color=41B883)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,vue,nuxtjs,mongodb,git,npm,postman,&theme=light)](https://skillicons.dev)
+
 
 ![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/0-profile-details.svg)
 
