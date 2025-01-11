@@ -6,8 +6,10 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 
 [![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=flat&color=41B883)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c) ![](https://komarev.com/ghpvc/?username=Xiang511&style=flat&color=41B883) ![GitHub followers](https://img.shields.io/github/followers/Xiang511?style=flat&color=41B883) ![GitHub User's stars](https://img.shields.io/github/stars/Xiang511?affiliations=OWNER&style=flat&color=41B883)
 
-
-
+<details>
+  <summary>Github Stats ⚡</summary>
+  </br>
+  
 ![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/0-profile-details.svg)
 
 ![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/1-repos-per-language.svg)
@@ -16,12 +18,17 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 ![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/3-stats.svg)
 &ensp;&ensp;![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/4-productive-time.svg)
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake.svg">
   <img style="width:80%;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/Xiang511/output/github-contribution-grid-snake.svg">
 </picture>
+
+</details>
+
+
+
+
 
 
 <!--
