@@ -2,7 +2,14 @@
 
 [![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=for-the-badge&color=41B883)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c)
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/323115090549407744?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/323115090549407744)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/323115090549407744)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/323115090549407744)](https://dev.discordprofiles.me/openspotify/323115090549407744)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,vue,nuxtjs,mongodb,git,npm,postman,vscode,&theme=light)](https://skillicons.dev)
+
+
 
 
 ![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/0-profile-details.svg)
