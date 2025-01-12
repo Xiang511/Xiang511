@@ -16,11 +16,7 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 ![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/3-stats.svg)
 &ensp;&ensp;![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/4-productive-time.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake.svg">
-  <img style="width:80%;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/Xiang511/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 
@@ -34,6 +30,12 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 
 
 <!--
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake.svg">
+  <img style="width:80%;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/Xiang511/output/github-contribution-grid-snake.svg">
+</picture>
 <details>
   <summary>Github Stats 📈</summary>
   </br>
