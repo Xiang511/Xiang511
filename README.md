@@ -4,7 +4,9 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,vue,nuxtjs,mongodb,git,vscode,&theme=light)](https://skillicons.dev)
 
-[![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=flat)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c) ![](https://komarev.com/ghpvc/?username=Xiang511&style=flat) ![GitHub followers](https://img.shields.io/github/followers/Xiang511?style=flat) ![GitHub User's stars](https://img.shields.io/github/stars/Xiang511?affiliations=OWNER&style=flat)
+[![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=flat&color=41B883)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c) ![](https://komarev.com/ghpvc/?username=Xiang511&style=flat&color=41B883) ![Static Badge](https://img.shields.io/badge/Website-Xiang511.com-blue?style=flat&link=https%3A%2F%2Fxiang511.com%2F) ![GitHub User's stars](https://img.shields.io/github/stars/Xiang511?style=flat)
+
+
 
 <details>
   <summary>Github Stats 📈</summary>
@@ -18,14 +20,18 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 ![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/3-stats.svg)
 &ensp;&ensp;![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/4-productive-time.svg)
 
+
+
+</details>
+<details>
+  <summary>Github Snk 🐍</summary>
+  </br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xiang511/snk/output/github-contribution-grid-snake.svg">
   <img style="width:80%;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xiang511/Xiang511/output/github-contribution-grid-snake.svg">
 </picture>
-
-</details>
-
+  </details>
 
 
 
