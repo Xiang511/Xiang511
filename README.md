@@ -1,8 +1,8 @@
 ## Hi I'm Xiang511</br> 
-I'm a university student looking for a future career. Welcome to my GitHub page.<br>
+A Computer Science graduate specializing in front-end web development with Vue.js.</br>
 Here, I will share some of my own projects. Feel free to leave your comments and discuss.</br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,cs,git,docker,py,nodejs,express,vue,nuxtjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,git,docker,py,nodejs,express,vue,nuxtjs&theme=light)](https://skillicons.dev)
 
 [![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=flat&color=007EC6)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c) ![](https://komarev.com/ghpvc/?username=Xiang511&style=flat&color=5E6AE9) ![Static Badge](https://img.shields.io/badge/Website-Xiang511.com-blue?style=flat&color=#41B883) ![Static Badge](https://img.shields.io/badge/listening%20to-nothing%20rn-blue?style=flat&logo=spotify&color=A4A61D)
 
