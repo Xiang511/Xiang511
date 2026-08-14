@@ -1,10 +1,11 @@
 ## Hi I'm Xiang511</br> 
-A Computer Science graduate specializing in front-end web development with Vue.js.</br>
-Here, I will share some of my own projects. Feel free to leave your comments and discuss.</br>
+Hi! I'm Hsiang, a front-end engineer currently learning ASP.NET to build full-stack capabilities.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,git,docker,py,nodejs,express,vue,nuxtjs&theme=light)](https://skillicons.dev)
+Always looking to connect with fellow devs to share resources or collaborate on projects — feel free to reach out or start a discussion!
 
-[![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=flat&color=007EC6)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c) ![](https://komarev.com/ghpvc/?username=Xiang511&style=flat&color=5E6AE9) ![Static Badge](https://img.shields.io/badge/Website-Xiang511.com-blue?style=flat&color=#41B883) ![Static Badge](https://img.shields.io/badge/listening%20to-nothing%20rn-blue?style=flat&logo=spotify&color=A4A61D)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,dotnet,docker,git,nodejs,express,vue,nuxtjs&theme=light)](https://skillicons.dev)
+
+[![wakatime](https://wakatime.com/badge/user/ea5be8e3-8ab9-4cb9-bb86-c46e807db00c.svg?style=flat&color=007EC6)](https://wakatime.com/@ea5be8e3-8ab9-4cb9-bb86-c46e807db00c) ![](https://komarev.com/ghpvc/?username=Xiang511&style=flat&color=5E6AE9) ![Static Badge](https://img.shields.io/badge/Website-Xiang511.com-blue?style=flat&color=#41B883) 
 
 
 
@@ -36,6 +37,8 @@ Here, I will share some of my own projects. Feel free to leave your comments and
 
 
 <!--
+![Static Badge](https://img.shields.io/badge/listening%20to-nothing%20rn-blue?style=flat&logo=spotify&color=A4A61D)
+
 ![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/1-repos-per-language.svg)
 &ensp;&ensp;![](https://raw.githubusercontent.com/Xiang511/Xiang511/main/profile-summary-card-output/vue/2-most-commit-language.svg)
 <picture>
